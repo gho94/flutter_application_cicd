@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('CI/CD 테스트 앱'),
+          title: Text('CI/CD 테스트 앱 되는거니?'),
         ),
         body: Center(
           child: Column(
